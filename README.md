@@ -2,7 +2,7 @@
 
 Sou uma profissional apaixonada por desenvolvimento de software, graduada em Análise e Desenvolvimento de Sistemas pela FATEC-SP. Atualmente, trabalho como programadora na AZtronic, onde contribuo para o desenvolvimento e manutenção de aplicações web voltadas para o mercado imobiliário. Estou participando do Bootcamp B3 <Dev>ª da Ada, onde aprofundo meus conhecimentos em Java.
 
-🔭 Atualmente estou focando nos estudos de Java e como parte desses estudos estou criando um aplicativo de gerenciamento de tarefas em Java.
+🔭 Atualmente, estou focada nos estudos de Java e, como parte desse aprendizado, estou desenvolvendo um aplicativo de gerenciamento de tarefas em Java.
 
 💬 Meu linkedin é www.linkedin.com/in/gabriela-visani
 
