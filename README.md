@@ -1,4 +1,4 @@
-## 💜 Olá, meu nome é Gabriela Visani!
+## Olá, meu nome é Gabriela Visani!
 
 Sou uma profissional apaixonada por desenvolvimento de software, graduada em Análise e Desenvolvimento de Sistemas pela FATEC-SP. Atualmente, trabalho como programadora na AZtronic, onde contribuo para o desenvolvimento e manutenção de aplicações web voltadas para o mercado imobiliário. Também participei do Bootcamp B3 <Dev>ª da Ada, tive uma jornada de aprimoramento em tecnologias como Java, Spring, REST, Maven, testes (JUnit e Mockito), microsserviços e conexão com APIs. Este compromisso com a aprendizagem contínua reflete meu desejo constante de evoluir e enfrentar novos desafios.
 
